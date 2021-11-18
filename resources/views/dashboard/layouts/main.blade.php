@@ -19,7 +19,7 @@
 
     <style>
       trix-toolbar [data-trix-button-group="file-tools"] {
-        display:none;
+        display:none; 
       }
     </style>
   </head>
